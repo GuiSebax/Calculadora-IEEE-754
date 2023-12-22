@@ -17,5 +17,6 @@ porém a execução está garantida apenas na versão citada anteriormente).
 
 
 ## Compilação
+- Para compilar o código basta executar esse comando
 ```bash
-- Para compilar o código basta executar esse comando python IEEE754Calculator.py
+- python IEEE754Calculator.py
