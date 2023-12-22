@@ -6,17 +6,17 @@ logo é recomendado esta versão para executar o programa (testes foram realizad
 porém a execução está garantida apenas na versão citada anteriormente).
 
  Nesse algoritmo pode ser feito as seguintes operações entre números binários de precisão dupla, ou seja, 64 bits:
- - Adição entre 2 números
- - Subtração entre 2 números
- - Multiplicação entre 2 números
- - Divisão entre 2 números
+ - Adição entre 2 números,
+ - Subtração entre 2 números,
+ - Multiplicação entre 2 números,
+ - Divisão entre 2 números.
 
 # Observação
-- Vale a pena ressaltar que os números são feitos também com sinal, respeitando todas as regras matématicas de sinalização
+- Vale a pena ressaltar que os números são feitos também com sinal, respeitando todas as regras matématicas de sinalização.
 
 
 
 ## Compilação
-- Para compilar o código basta executar esse comando
+- Para compilar o código basta executar esse comando:
 ```bash
 - python IEEE754Calculator.py
